@@ -1,1 +1,1 @@
-put
+puts "hello world"

@@ -1,8 +1,10 @@
-x = 1
-if x > 2
+x = 4
+
+if x > 10
    puts "x is greater than 2"
-elsif x <= 2 and x!=0
-   puts "x is 1"
 else
-   puts "I can't guess the number" 
+   puts "x is lesser than 10"
+
 end
+
+
